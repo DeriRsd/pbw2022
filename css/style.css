@@ -1,0 +1,125 @@
+/* Header */
+.style-nav{
+    background-color: #0a0a0c;
+}
+.style-nav img{
+    max-width: 4%;
+    min-width: 4%;
+    border-radius: 50%;
+}
+.style-nav .navbar-nav a.nav-link{
+    color:#fff;
+    font-weight: 600;
+}
+.style-nav .navbar-nav a.nav-link.active,.style-nav .navbar-nav .nav-link:hover {
+    color:  #ffc300;
+}
+.navbar.scrolled{
+    background-color: #202020;
+    transition: background-color 1s ease;
+    box-shadow: 0px -10px 30px rgb(58, 58, 58);
+}
+.navbar.scrolled a.nav-link{
+    color:rgb(255, 255, 255);
+}
+/* Bebas */
+.style-bg{
+    color:#fff;
+    background-color: #313131;
+    background-image: url("../img/Background.JPG");
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-blend-mode:multiply;
+}
+.style-bg h1 span.span-nvidia{
+    color:rgb(57, 163, 0);
+}
+.style-bg h1 span.span-amd{
+    color:rgb(184, 0, 0);
+}
+.style-bg h1 span.span-intel{
+    color:rgb(4, 0, 255);
+}
+.style-bg a.style-brand{
+    color: #ffffff;
+}
+.style-dark{
+    background-color: #1f1e20;
+    color:#fff
+}
+.style-light{
+    background-color: #333239;
+    color:#fff;
+}
+.style-hitam{
+    background-color: #0a0a0c;
+    color:#fff;
+}
+.align{
+    text-align: justify;
+}
+.m-top{
+    margin-top: 3%;
+}
+.background-nvidia{
+    color: #fff;
+    background-color: #222222fc;
+    background-image: url("https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/ada/homepage/geforce-ada-40-series-nv-sfg-295x166@2x.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+.background-amd{
+    color: #fff;
+    background-color: #222222d0;
+    background-image: url("https://assets2.rockpapershotgun.com/AMD-Radeon-RX-6000-series-refresh.PNG/BROK/resize/1920x1920%3E/format/jpg/quality/80/AMD-Radeon-RX-6000-series-refresh.PNG");
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+.background-intel{
+    color: #fff;
+    background-color: #222222d0;
+    background-image: url("https://asset.kompas.com/crops/CDVaOSw2Xl9ZbLDNw7W5exWFUF4=/63x0:831x512/750x500/data/photo/2022/04/01/62463b1006b71.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+.bg-contactme{
+    color: #fff;
+    background-color: #222222fc;
+    background-image: url("https://www.2berk.com/wp-content/uploads/2022/10/Contact-Me.jpg");
+    background-size: cover;
+    background-blend-mode: multiply;
+}
+.medsos{
+    text-align: center;
+}
+.medsos2{
+    text-align: center;
+    margin-right: 2%;
+}
+.medsos ul a{
+    color:#fff;
+    font-size: 130%;
+}
+.medsos ul a:hover{
+    color:#ffc300;
+}
+.medsos2 ul a{
+    color:#fff;
+    font-size: 100%;
+}
+.medsos2 ul a:hover{
+    color:#ffc300;
+}
+.medsos ul.follow{
+    font-size: 150%;
+}
+.form{
+    padding-bottom: 5%;
+}
+.pesan{
+    padding-top: 1%;
+    padding-bottom: 5%;
+    padding-left: 1%;
+    width: 50%;
+}
