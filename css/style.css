@@ -123,3 +123,30 @@
     padding-left: 1%;
     width: 50%;
 }
+.top{
+    padding-top: 3%;
+}
+.table{
+    text-align: center;
+    color: #fff;
+}
+.table .harga{
+    padding-right: 7%;
+}
+.table .vga{
+    padding-right: 8%;
+}
+.left{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 17%;
+}
+.left2{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 20%;
+}
+.left3{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
